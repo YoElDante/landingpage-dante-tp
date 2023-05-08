@@ -300,7 +300,7 @@ section {
 }
 
 .carousel-item .container {
-  height: 600px;
+  height: 650px;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -514,6 +514,7 @@ footer {
 }
 
 .derechos-de-autor{
+  margin-top: 20px;
   font-size: 15px;
   color: #aeaeae;
   padding: 20px;
